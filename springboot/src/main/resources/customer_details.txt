@@ -1,0 +1,18 @@
+insert into customer_details(customer_id,age,email,gender,name,phone_no)
+values('416fe77a-bc1b-40c5-a148-95f8b6cb8cce',25,'146@gmail.com','mail','JITESH','8965723147');
+
+insert into customer_details
+values('417fe77a-bc1b-40c5-a148-95f8b6cb8cce',25,'147@gmail.com','mail','KHANDA','9965723147');
+insert into customer_details
+values('418fe77a-bc1b-40c5-a148-95f8b6cb8cce',25,'148@gmail.com','mail','KHANDA','9365723147');
+insert into customer_details
+values('419fe77a-bc1b-40c5-a148-95f8b6cb8cce',25,'149@gmail.com','femail','done','9975723147');
+insert into customer_details
+values('420fe77a-bc1b-40c5-a148-95f8b6cb8cce',24,'120@gmail.com','mail','KHANDA','9365723147');
+insert into customer_details
+values('421fe77a-bc1b-40c5-a148-95f8b6cb8cce',24,'121@gmail.com','femail','john','9975724147');
+insert into customer_details
+values('422fe77a-bc1b-40c5-a148-95f8b6cb8cce',21,'122@gmail.com','mail','mack','9365723157');
+insert into customer_details
+values('423fe77a-bc1b-40c5-a148-95f8b6cb8cce',21,'123@gmail.com','femail','done','9975723187');
+
